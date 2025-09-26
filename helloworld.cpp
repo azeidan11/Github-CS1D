@@ -29,6 +29,6 @@ return 0;
 int hello2Function(string name2)
 {
 cout << "hello World " << name2 << endl;
-cout << "hi" << endl;
+cout << "hi devon" << endl;
 return 0;
 }
